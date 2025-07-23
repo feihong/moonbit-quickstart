@@ -1,6 +1,6 @@
 {
   "is-main": true,
   "import": [
-    "quickstart/hello/lib"
+    "feihong/hello/lib"
   ]
 }
